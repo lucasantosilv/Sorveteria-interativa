@@ -1,8 +1,8 @@
-# Sorveteria Interativa
+# 🍦 Sorveteria Interativa
 
 Este projeto é um simples programa interativo em Python que simula um atendimento em uma sorveteria. O usuário pode escolher um sabor e recebe uma resposta personalizada com o preço do sorvete.
 
-## Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório ou baixe o arquivo `sorveteria.py`.
@@ -13,11 +13,11 @@ Este projeto é um simples programa interativo em Python que simula um atendimen
    ```
 5. Siga as instruções exibidas no terminal para escolher seu sabor de sorvete.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- Python
+- 🐍 Python
 
-## Exemplo de Uso
+## 🎯 Exemplo de Uso
 
 Ao executar o programa, será exibida uma mensagem de boas-vindas e uma lista de opções de sabores. O usuário insere o número correspondente ao sabor desejado e recebe uma resposta com o preço.
 
@@ -37,17 +37,17 @@ São R$ 4,00
 Volte sempre!!
 ```
 
-## Melhorias Futuras
+## 📌 Melhorias Futuras
 
-- Adicionar mais sabores
-- Implementar um sistema de pedidos múltiplos
-- Criar uma interface gráfica
+- ➕ Adicionar mais sabores
+- 🛒 Implementar um sistema de pedidos múltiplos
+- 🖥️ Criar uma interface gráfica
 
-## Contribuições
+## 🤝 Contribuições
 
 Fique à vontade para abrir issues ou pull requests caso tenha sugestões ou melhorias!
 
-## Licença
+## 📜 Licença
 
 Este projeto está sob a licença MIT.
 
